@@ -54,7 +54,6 @@
 <p align="left">
   <a href="mailto:saumyatevatia@gmail.com"><img src="https://img.shields.io/badge/Gmail-saumyatevatia-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/saumya-tevatia-a1095a254/"><img src="https://img.shields.io/badge/LinkedIn-Saumya_Tevatia-blue?style=flat-square&logo=linkedin"></a>
-  <a href="https://github.com/Saumya20062004"><img src="https://img.shields.io/github/followers/Saumya20062004?label=GitHub&style=flat-square"></a>
 </p>
 
 ---
