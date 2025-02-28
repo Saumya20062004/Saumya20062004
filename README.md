@@ -2,7 +2,6 @@
 <h3 align="center">A passionate Data Science & AI enthusiast specializing in NLP, LLMs, and Deep Learning.</h3>
 
 <p align="center">
-  <a href="https://github.com/Saumya20062004"><img src="https://img.shields.io/github/followers/Saumya20062004?label=Followers&style=social" alt="GitHub Followers"></a>
   <a href="https://www.linkedin.com/in/saumya-tevatia-a1095a254/"><img src="https://img.shields.io/badge/LinkedIn-Saumya_Tevatia-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
   <a href="mailto:saumyatevatia@gmail.com"><img src="https://img.shields.io/badge/Email-saumyatevatia@gmail.com-red?style=flat-square&logo=gmail" alt="Email"></a>
 </p>
